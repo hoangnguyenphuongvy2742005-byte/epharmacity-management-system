@@ -1,0 +1,262 @@
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.exe
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.pdb
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.exe
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.pdb
+C:\Users\HAI\Documents\CNPM\QuanLyThongKeNhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.exe
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\bin\Debug\NhaThuoc.pdb
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.exe
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.pdb
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Add.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Manager.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Revenue.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Role.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Notice.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmChiTietPhanHoi.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmCSKH.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmInfoChiTietKH.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmInfoKH.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmLichSuDonHang.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmLSDHChiTiet.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.frmPhanHoiKH.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.CreateCustomerForm.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.CreateOrderForm.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.NhanVienBanHang.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.OrderHistoryForm.resources
+C:\Users\HAI\Downloads\NhaThuoc\NhaThuoc\NhaThuoc\obj\Debug\NhaThuoc.UpdateCustomerForm.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.pdb
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Add.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateCustomerForm.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateOrderForm.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmChiTietPhanHoi.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmCSKH.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoChiTietKH.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoKH.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLichSuDonHang.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLSDHChiTiet.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmPhanHoiKH.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Manager.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.NhanVienBanHang.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Notice.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.OrderHistoryForm.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Revenue.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Role.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UpdateCustomerForm.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.exe
+C:\Users\84344\OneDrive\Máy tính\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.pdb
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Add.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.BaoCao_Xuat.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateCustomerForm.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateOrderForm.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmChiTietPhanHoi.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmCSKH.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoChiTietKH.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoKH.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLichSuDonHang.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLSDHChiTiet.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmPhanHoiKH.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Manager.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.NhanVienBanHang.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Notice.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.OrderHistoryForm.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Revenue.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Role.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\Nhathuoc.Thuoc_AddEdit.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_CanhBaoTonKho.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThongKeNhanh.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThuocList.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UpdateCustomerForm.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.exe
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.pdb
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.pdb
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.Up2Date
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmQuanLyBangLuongMoi.resources
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\RBush.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.pdb
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\RBush.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAI\Downloads\ePharmacity-main\ePharmacity-main\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.QuanLyKhoThuoc_Main.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Add.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.BaoCao_Xuat.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateCustomerForm.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateOrderForm.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmChiTietPhanHoi.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmCSKH.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoChiTietKH.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoKH.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLichSuDonHang.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLSDHChiTiet.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmPhanHoiKH.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmQuanLyBangLuongMoi.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.GuiThongBaoChoKhachHang.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Manager.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.NhanVienBanHang.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Notice.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.OrderHistoryForm.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.QuanLyKhoThuoc_Main.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.QuanLyThongBao.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.QuanLyYeuCauHoanDon.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Revenue.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Role.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Taoyeucauhoandon.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\Nhathuoc.Thuoc_AddEdit.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_CanhBaoTonKho.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThongKeNhanh.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThuocList.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UpdateCustomerForm.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.exe
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.pdb
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.pdb
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\RBush.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.pdb
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\RBush.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.Up2Date
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe.config
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.exe
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\NhaThuoc.pdb
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\RBush.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.pdb
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ClosedXML.Parser.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\EPPlus.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\ExcelNumberFormat.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\RBush.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\SixLabors.Fonts.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Buffers.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Memory.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Numerics.Vectors.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.AssemblyReference.cache
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Add.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.BaoCao_Xuat.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateCustomerForm.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.CreateOrderForm.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmChiTietPhanHoi.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmCSKH.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoChiTietKH.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmInfoKH.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLichSuDonHang.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmLSDHChiTiet.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmPhanHoiKH.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.frmQuanLyBangLuongMoi.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.GuiThongBaoChoKhachHang.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Homepage.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Manager.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.NhanVienBanHang.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Notice.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.OrderHistoryForm.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.QuanLyKhoThuoc_Main.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.QuanLyThongBao.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.QuanLyYeuCauHoanDon.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Revenue.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Role.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.GiaoDien.Taoyeucauhoandon.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\Nhathuoc.Thuoc_AddEdit.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_CanhBaoTonKho.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThongKeNhanh.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UC_ThuocList.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.UpdateCustomerForm.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.Properties.Resources.resources
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.GenerateResource.cache
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.CoreCompileInputs.cache
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.csproj.Up2Date
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.exe
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.pdb
+D:\KY1_Y3\DOT1\CNPM\DoAn_HoanThanh\moinhat\moinhat\ePharmacity-main\NhaThuoc\obj\Debug\NhaThuoc.ReturnRequestForm.resources

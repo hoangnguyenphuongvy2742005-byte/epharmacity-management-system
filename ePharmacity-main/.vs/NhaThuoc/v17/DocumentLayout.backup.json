@@ -1,0 +1,934 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|c:\\users\\huy\u0300nh thanh nh\u00E2n\\dropbox\\my pc (laptop-gqbhir0s)\\downloads\\doan_cnpm\\doan_cnpm\\moinhat\\epharmacity-main\\nhathuoc\\giaodien\\quanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|c:\\users\\huy\u0300nh thanh nh\u00E2n\\dropbox\\my pc (laptop-gqbhir0s)\\downloads\\doan_cnpm\\doan_cnpm\\moinhat\\epharmacity-main\\nhathuoc\\giaodien\\quanlykhothuoc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlykhothuoc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|c:\\users\\huy\u0300nh thanh nh\u00E2n\\dropbox\\my pc (laptop-gqbhir0s)\\downloads\\doan_cnpm\\doan_cnpm\\moinhat\\epharmacity-main\\nhathuoc\\giaodien\\quanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\quanlykhothuoc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlykhothuoc_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|c:\\users\\huy\u0300nh thanh nh\u00E2n\\dropbox\\my pc (laptop-gqbhir0s)\\downloads\\doan_cnpm\\doan_cnpm\\moinhat\\epharmacity-main\\nhathuoc\\picture\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\picture\\1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\updatecustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\taoyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\taoyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\returnrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\returnrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\refundpercentageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\refundpercentageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\quanlyyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlyyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\quanlythongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\quanlythongbao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\notice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\guithongbaochokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\guithongbaochokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmxoacongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmxoacongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmthongsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmthongsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmthemcongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmthemcongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmquanlybangluongmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmquanlybangluongmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmphanhoikh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmphanhoikh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmmenuchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmmenuchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmlsdhchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmlsdhchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmlichsudonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frminfokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frminfokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frminfochitietkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frminfochitietkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmchitietphanhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmchitietphanhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmchiphinhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmchiphinhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmchiphibanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmchiphibanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmcskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmcskh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\createcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\createcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\baocao_xuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\baocao_xuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\formmovehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\formmovehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\returnrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\returnrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\returnrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\returnrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\taoyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\taoyeucauhoandon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\createorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\thuoc_addedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\thuoc_addedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\nhanvienbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\nhanvienbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\nhanvienbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmphanhoikh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmphanhoikh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\guithongbaochokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\guithongbaochokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frminfochitietkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frminfochitietkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frminfokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frminfokh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmthemcongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmthemcongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmquanlybangluongmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmquanlybangluongmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmthongsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmthongsoluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\frmxoacongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\frmxoacongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\nhathuoc\\giaodien\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8DA24A0-3359-43B5-A48F-FDBDDBE3D65B}|NhaThuoc\\NhaThuoc.csproj|solutionrelative:nhathuoc\\giaodien\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyKhoThuoc_Main.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:22:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyKho.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:20:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyKho.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKho.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:16:42.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Homepage.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Homepage.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Homepage.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Homepage.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAqwBUBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:04:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1.png",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\picture\\1.png",
+              "RelativeDocumentMoniker": "NhaThuoc\\picture\\1.png",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\picture\\1.png",
+              "RelativeToolTip": "NhaThuoc\\picture\\1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-18T10:09:18.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyKhoThuoc_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyKhoThuoc_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:08:59.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Notice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Notice.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Notice.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Notice.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Notice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:41.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Manager.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Manager.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Manager.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:39.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMenuChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmMenuChinh.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmMenuChinh.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmMenuChinh.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmMenuChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:26.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmChiTietPhanHoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiTietPhanHoi.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmChiTietPhanHoi.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiTietPhanHoi.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmChiTietPhanHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmChiPhiNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiPhiNhapHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmChiPhiNhapHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiPhiNhapHang.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmChiPhiNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmChiPhiBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiPhiBanHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmChiPhiBanHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmChiPhiBanHang.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmChiPhiBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:19.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaoCao_Xuat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\BaoCao_Xuat.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\BaoCao_Xuat.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\BaoCao_Xuat.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\BaoCao_Xuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Add.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Add.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Add.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:06:11.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Role.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Role.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Role.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Role.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:05:48.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Homepage.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Homepage.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Homepage.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:04:46.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReturnRequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\ReturnRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:30:20.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReturnRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\ReturnRequestForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:24:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Taoyeucauhoandon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:21:49.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReturnRequestForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.Designer.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\ReturnRequestForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\ReturnRequestForm.Designer.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\ReturnRequestForm.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwKoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:51:56.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RefundPercentageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\RefundPercentageForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\RefundPercentageForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\RefundPercentageForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\RefundPercentageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:21:43.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Taoyeucauhoandon.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Taoyeucauhoandon.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:21:52.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreateOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAALMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:30:51.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\UpdateCustomerForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\UpdateCustomerForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\UpdateCustomerForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\UpdateCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:43:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\OrderHistoryForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\OrderHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:57:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\OrderHistoryForm.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAwFUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:57:02.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\CreateOrderForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateOrderForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\CreateOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:30:48.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateCustomerForm.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\CreateCustomerForm.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\CreateCustomerForm.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\CreateCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:30:43.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLichSuDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmLichSuDonHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmLichSuDonHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmLichSuDonHang.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmLichSuDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T03:03:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Thuoc_AddEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Thuoc_AddEdit.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Thuoc_AddEdit.cs",
+              "ToolTip": "D:\\KY1_Y3\\DOT1\\CNPM\\DoAn_HoanThanh\\moinhat\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Thuoc_AddEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T04:14:08.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmLSDHChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmLSDHChiTiet.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmLSDHChiTiet.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmLSDHChiTiet.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmLSDHChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:17:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Revenue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Revenue.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Revenue.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Revenue.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Revenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:28:55.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NhanVienBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\NhanVienBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.Designer.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\NhanVienBanHang.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T01:52:36.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NhanVienBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\NhanVienBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:24:59.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NhanVienBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\NhanVienBanHang.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:00:56.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmPhanHoiKH.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAgwPMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:30:20.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmPhanHoiKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmPhanHoiKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:30:19.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GuiThongBaoChoKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:19:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GuiThongBaoChoKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\GuiThongBaoChoKhachHang.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAlwMUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:19:41.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLyYeuCauHoanDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyYeuCauHoanDon.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyYeuCauHoanDon.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyYeuCauHoanDon.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyYeuCauHoanDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:21:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmInfoChiTietKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:34:37.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormMoveHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\FormMoveHelper.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\FormMoveHelper.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\FormMoveHelper.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\FormMoveHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:28:43.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmThemCongNo.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:44.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmInfoChiTietKH.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmInfoChiTietKH.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAlwNIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:35:41.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmInfoKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoKH.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmInfoKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:39:21.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmInfoKH.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmInfoKH.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAkwMcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:39:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmCSKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmCSKH.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmCSKH.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmCSKH.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmCSKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:34:37.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DatabaseConnection.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:07:21.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DatabaseHelper.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:07:46.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DataConnection.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\DataConnection.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\DataConnection.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\DataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:07:53.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmQuanLyBangLuongMoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:12:19.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmQuanLyBangLuongMoi.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmQuanLyBangLuongMoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:12:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmThemCongNo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmThemCongNo.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThemCongNo.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmThemCongNo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:42.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmThongSoLuong.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:37.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmThongSoLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmThongSoLuong.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmThongSoLuong.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmThongSoLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmXoaCongNo.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmXoaCongNo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\frmXoaCongNo.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\frmXoaCongNo.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\frmXoaCongNo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:26.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanLyThongBao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyThongBao.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\QuanLyThongBao.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\QuanLyThongBao.cs [Design]",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\QuanLyThongBao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:21.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Models.cs",
+              "RelativeDocumentMoniker": "NhaThuoc\\GiaoDien\\Models.cs",
+              "ToolTip": "C:\\Users\\Huy\u0300nh Thanh Nh\u00E2n\\Dropbox\\My PC (LAPTOP-GQBHIR0S)\\Downloads\\DoAn_CNPM\\DoAn_CNPM\\moinhat\\ePharmacity-main\\NhaThuoc\\GiaoDien\\Models.cs",
+              "RelativeToolTip": "NhaThuoc\\GiaoDien\\Models.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:08:01.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
